@@ -1,0 +1,13 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\bin\Debug\net9.0\ITBoostUp.BussinessLayer.deps.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\bin\Debug\net9.0\ITBoostUp.BussinessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\bin\Debug\net9.0\ITBoostUp.BussinessLayer.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.AssemblyInfoInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.AssemblyInfo.cs
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.sourcelink.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\refint\ITBoostUp.BussinessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ref\ITBoostUp.BussinessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.BussinessLayer\obj\Debug\net9.0\ITBoostUp.BussinessLayer.csproj.AssemblyReference.cache

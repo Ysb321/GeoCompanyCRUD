@@ -1,0 +1,16 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\bin\Debug\net9.0\ITBoostUp.DataAccessLayer.deps.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\bin\Debug\net9.0\ITBoostUp.DataAccessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\bin\Debug\net9.0\ITBoostUp.DataAccessLayer.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.AssemblyInfo.cs
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.sourcelink.json
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\refint\ITBoostUp.DataAccessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ref\ITBoostUp.DataAccessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\bin\Debug\net9.0\ITBoostUp.BussinessLayer.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\bin\Debug\net9.0\ITBoostUp.BussinessLayer.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostUp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\MVC\ITBoostUp\ITBoostUp.DataAccessLayer\obj\Debug\net9.0\ITBoostU.D80A3316.Up2Date
